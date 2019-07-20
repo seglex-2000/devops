@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/seglex2000/POC/_apis/build/status/seglex2000.devops?branchName=master)](https://dev.azure.com/seglex2000/POC/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
